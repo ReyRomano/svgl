@@ -174,7 +174,7 @@
       {#if wordmarkSvg}
         <button
           title="Copy wordmark SVG to clipboard"
-          on:click={() => {
+           on:click={() => {
             const svgHasTheme = typeof svgInfo.wordmark !== 'string';
 
             if (!svgHasTheme) {
