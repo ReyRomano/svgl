@@ -2,7 +2,7 @@
 <a href="https://svgl.app">
 <img src="static/images/readme.png">
 </a>
-<p></p>
+ <p></p>
 </div>
 
 <div align="center">
